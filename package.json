@@ -1,0 +1,27 @@
+{
+  "name": "mdx-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.15.8",
+    "@babel/preset-env": "^7.15.8",
+    "@babel/preset-react": "^7.14.5",
+    "@mdx-js/loader": "^2.0.0-rc.1",
+    "@mdx-js/mdx": "^2.0.0-rc.1",
+    "@mdx-js/react": "^2.0.0-rc.1",
+    "babel-loader": "^8.2.3",
+    "html-webpack-plugin": "^5.4.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack": "^5.59.1",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.3.1"
+  }
+}

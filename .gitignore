@@ -1,0 +1,45 @@
+.DS_Store
+.project
+
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# node
+node_modules
+*.log
+
+# vim
+*.swp
+
+# webstorm
+.idea
+
+# vscode
+.vscode
+jsconfig.json
+
+# macos
+.DS_Store
+
+# egg
+run/
+
+# jest
+coverage
+
+# elint
+.commitlintrc.cjs
+.eslintrc.cjs
+.huskyrc.json
+.prettierrc.cjs
+.stylelintrc.cjs
+
+.generated
+.client
+.server
+.analyzer
+.health
+.health_status
+dist
